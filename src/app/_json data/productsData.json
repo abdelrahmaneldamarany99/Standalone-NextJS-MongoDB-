@@ -1,0 +1,55 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "productName": "Potatoes - Yukon Gold 5 Oz",
+      "seller": "Zoomcast"
+    },
+    {
+      "id": 2,
+      "productName": "Dates",
+      "seller": "Dabvine"
+    },
+    {
+      "id": 3,
+      "productName": "Ham - Virginia",
+      "seller": "Oyoloo"
+    },
+    {
+      "id": 4,
+      "productName": "Juice - V8, Tomato",
+      "seller": "Devbug"
+    },
+    {
+      "id": 5,
+      "productName": "Pie Shell - 5",
+      "seller": "Skyvu"
+    },
+    {
+      "id": 6,
+      "productName": "Horseradish - Prepared",
+      "seller": "Rooxo"
+    },
+    {
+      "id": 7,
+      "productName": "Soup - Campbellschix Stew",
+      "seller": "Vimbo"
+    },
+    {
+      "id": 8,
+      "productName": "Pie Filling - Cherry",
+      "seller": "Nlounge"
+    },
+    {
+      "id": 9,
+      "productName": "Coffee Cup 12oz 5342cd",
+      "seller": "Edgewire"
+    },
+    {
+      "id": 10,
+      "productName": "Arrowroot",
+      "seller": "Brightdog"
+    }
+  ]
+  
+}
